@@ -24,8 +24,8 @@ De timer zal in totaal vier verschillende knoppen hebben:
 ![alt text](Imgs/aanuit.png)![alt text](Imgs/start.png)![alt text](Imgs/plus.png)![alt text](Imgs/min.png)
 **Leds**
 Er zullen twee leds aanwezig zijn.
-- Een rood ledje voor tijdens het studeren.
-- Een groen ledje voor tijdens de pauze.
+- Een groen ledje voor tijdens het studeren.
+- Een rood ledje voor tijdens de pauze.
 ![rode led](<Imgs/rode led.png>)![groene led](<Imgs/groene led.png>)
 **Geluid**
 Bij elke kleurwisseling van de leds zal er een ping geluid te horen zijn.
