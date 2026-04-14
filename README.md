@@ -14,7 +14,7 @@ In arduino:
 
 ## Verschillende componenten
 
-**Scherm**
+#### Scherm
 Hierop zie je de tijd en kan je instellen hoe lang je wilt werken.
 
 **Knoppen**
