@@ -23,12 +23,14 @@ De timer zal in totaal vier verschillende knoppen hebben:
 - Een knop om de timer te starten
 - Een knop om de tijd te verhogen
 - Een knop om de tijd te verlagen
+
 ![alt text](Imgs/aanuit.png)![alt text](Imgs/start.png)![alt text](Imgs/plus.png)![alt text](Imgs/min.png)
 
 ### Leds
 Er zullen twee leds aanwezig zijn.
 - Een groen ledje voor tijdens het studeren.
 - Een rood ledje voor tijdens de pauze.
+
 ![rode led](<Imgs/rode led.png>)![groene led](<Imgs/groene led.png>)
 
 ### Geluid
