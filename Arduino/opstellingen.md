@@ -8,3 +8,4 @@
 ![opstelling_leds](../Imgs/opstelling_leds.png)
 
 **Deel scherm**
+![opstelling_scherm](../Imgs/opstelling_scherm.png)
